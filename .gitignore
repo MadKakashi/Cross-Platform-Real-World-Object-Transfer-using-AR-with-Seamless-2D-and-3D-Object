@@ -1,0 +1,15 @@
+venv
+.vscode
+.DS_Store
+.pyc
+node_modules
+__pycache__
+server/*.png
+server/*.jpg
+*.psd
+app/node_modules
+app/README.md
+README.md
+app/%ProgramData%
+app/.expo
+app/.expo-shared

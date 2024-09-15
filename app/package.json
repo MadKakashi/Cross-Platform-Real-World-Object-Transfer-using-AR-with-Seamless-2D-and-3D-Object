@@ -1,0 +1,39 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~3.1.1",
+    "base-64": "^1.0.0",
+    "expo": "^50.0.0",
+    "expo-2d-context": "0.0.2",
+    "expo-asset": "~9.0.2",
+    "expo-camera": "~14.0.3",
+    "expo-gl": "~13.6.0",
+    "expo-image-manipulator": "~11.8.0",
+    "expo-permissions": "~8.1.0",
+    "mem": "^4.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.73.2",
+    "react-native-screens": "~3.29.0",
+    "react-native-svg": "14.1.0",
+    "react-native-web": "~0.19.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/babel__core": "^7.20.5",
+    "@types/base-64": "^1.0.2",
+    "@types/react": "~18.2.45",
+    "@types/react-native": "~0.61.17",
+    "babel-preset-expo": "^10.0.0",
+    "expo-module-scripts": "^3.4.1",
+    "typescript": "^5.3.0"
+  },
+  "private": true
+}
